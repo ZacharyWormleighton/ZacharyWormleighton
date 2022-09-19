@@ -48,13 +48,13 @@ I have a passion for collaborating on exciting projects and I also like to make 
 ## Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=zacharywormleighton&count_private=true&bg_color=16213E&hide_border=true&title_color=E94560&text_color=E94560&show_icons=true&icon_color=533483""https://github.com/anuraghazra/github-readme-stats" alt="GitHub Stats Ayu Adiati">
+  <img src="https://github-readme-stats.vercel.app/api/?username=zacharywormleighton&count_private=true&bg_color=16213E&hide_border=true&title_color=E94560&text_color=E94560&show_icons=true&icon_color=533483""https://github.com/anuraghazra/github-readme-stats" alt="GitHub Stats ZacharyWormleighton">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=zjwgames&count_private=true&bg_color=16213E&hide_border=true&title_color=E94560&text_color=E94560&show_icons=true&icon_color=533483""https://github.com/anuraghazra/github-readme-stats" alt="GitHub Stats Ayu Adiati">
+  <img src="https://github-readme-stats.vercel.app/api/?username=zjwgames&count_private=true&bg_color=16213E&hide_border=true&title_color=E94560&text_color=E94560&show_icons=true&icon_color=533483""https://github.com/anuraghazra/github-readme-stats" alt="GitHub Stats ZJWGames">
 </div>
 
 <!--
