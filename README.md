@@ -7,12 +7,13 @@
 # Hi, I'm Zachary <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
 ## [👩‍💻](#-developer) About Me
-I am a full stack software developer who loves building solutions to solve complex problems.
+I am a full stack developer who loves solving complex problems with code and cloud.
 
-I love learning new things and honing my craft.
+Experienced with a variety of tech stacks and across a wide range of projects. These have seen me wearing many hats: gathering requirements; story-writing; designing solution architectures; writing, maintaining and debugging code; providing code reviews and feedback; liaising with clients; presenting technical subjects to a wide variety of audiences, and much more.
 
-I have a passion for collaborating on exciting projects and I also like to make games in my spare time (check out my other [GitHub](https://github.com/zjwgames) for more).
+I have a passion for collaborating on exciting projects using the latest and greatest technologies (along with some legacy ones too!).
 
+In my spare time, I like to use my technical skills as a creative outlet by developing games that I share and play with my family and friends! Check out my other [GitHub](https://github.com/zjwgames) for more.
 
 ## 💻 Skills
 <div align="center">
