@@ -1,5 +1,7 @@
 <!-- https://colorhunt.co/palette/16213e0f3460533483e94560 -->
 
+![Hello Header]("https://raw.githubusercontent.com/ZacharyWormleighton/ZacharyWormleighton/main/assets/Header_ZJW.png")
+
 # Hi, I'm Zachary <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
 ## [👩‍💻](#-developer) About Me
@@ -67,6 +69,8 @@ I have a passion for collaborating on exciting projects and I also like to make 
 </div>
 
 -->
+
+![Thank You Footer](src="https://raw.githubusercontent.com/ZacharyWormleighton/ZacharyWormleighton/main/assets/Footer_ZJW.png")
 
 <!--
 **ZacharyWormleighton/ZacharyWormleighton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
