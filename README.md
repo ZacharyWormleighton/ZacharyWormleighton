@@ -57,7 +57,7 @@ In my spare time, I like to use my technical skills as a creative outlet by deve
 - AWS Certified Cloud Practitioner
 - Placed 2nd in the Manchester Student Game Jam
 
-
+<!--
 ## Contributions
 
 <div align="center">
@@ -81,6 +81,7 @@ In my spare time, I like to use my technical skills as a creative outlet by deve
 </div>
 
 </div>
+-->
 
 <br>
 
